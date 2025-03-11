@@ -8,15 +8,6 @@ This repository contains an implementation of Super-Resolution for videos using 
 - Supports multiple input resolutions.
 - Implements both Generator and Discriminator models for adversarial training.
 
-## 📌 Prerequisites
-Before running the project, ensure you have the following installed:
-- Python (>= 3.7)
-- TensorFlow / PyTorch (depending on implementation)
-- OpenCV
-- NumPy
-- Matplotlib
-- FFmpeg (for video processing)
-
 ## 📂 Installation
 Clone the repository:
 ```bash
